@@ -63,7 +63,7 @@
 </a>  
 <br/>
 
-<a href="https://github.com/Ayeesha-56/python-projects" target="_blank">
+<a href="https://github.com/search?q=user:Ayeesha-56/python-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Python logo" />
   <span style="font-size: 18px; margin-left: 8px;">Python Projects</span>
 </a>  
