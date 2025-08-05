@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
- <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=40C057" height="40" alt="microsoftsqlserver logo" style="margin-right: 12px;" />
+ <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=40C057" height="40" alt="microsoftExcel logo" style="margin-right: 12px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="margin-right: 12px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" style="margin-right: 12px;" />
 <img src="https://img.icons8.com/?size=100&id=69674&format=png&color=FAB005" height="40" alt="microsoftPowerBI logo" style="margin-right: 12px;" />
@@ -51,27 +51,27 @@
 
 <div align="left">
 
-<a href="https://github.com/YourUsername/excel-projects" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=007ACC" height="40" alt="Excel logo" />
+<a href="https://github.com/Ayeesha-56/excel-projects" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=40C057" height="40" alt="microsoftExcel logo" height="40" alt="Excel logo" />
   <span style="font-size: 18px; margin-left: 8px;">Excel Projects</span>
 </a>  
 <br/>
 
-<a href="https://github.com/YourUsername/sql-projects" target="_blank">
+<a href="https://github.com/Ayeesha-56/sql-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <span style="font-size: 18px; margin-left: 8px;">SQL Projects</span>
 </a>  
 <br/>
 
-<a href="https://github.com/YourUsername/python-projects" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+<a href="https://github.com/Ayeesha-56/python-projects" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Python logo" />
   <span style="font-size: 18px; margin-left: 8px;">Python Projects</span>
 </a>  
 <br/>
 
-<a href="https://github.com/YourUsername/powerbi-projects" target="_blank">
+<a href="https://github.com/Ayeesha-56/powerbi-projects" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=69674&format=png&color=FAB005" height="40" alt="Power BI logo" />
-  <span style="font-size: 18px; margin-left: 8px;">Power BI Dashboards</span>
+  <span style="font-size: 18px; margin-left: 8px;">Power BI Projects</span>
 </a>
 
 </div>
